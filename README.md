@@ -1,6 +1,7 @@
 ## Getting and Cleaning Data Course Project
 
-The goal of this project was to creat an R script called run_analysis.R that does the following. 
+The goal of this project was to creat an R script called run_analysis.R that does the following
+
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set.
@@ -17,7 +18,8 @@ The data used for this project is data linked from the course website and repres
 
 ## Package Installation
 
-I used the functions of two packages for this project in order to fully implement my script:
+I used the functions of two packages for this project in order to fully implement my script
+
 1. reshape2
 2. data.table
 
