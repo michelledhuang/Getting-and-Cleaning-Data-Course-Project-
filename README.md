@@ -28,7 +28,8 @@ I used the functions of two packages for this project in order to fully implemen
 1. Create a Course Project folder in your local directory for clear and efficient access to all data.
 2. Download data source to this folder. Downloaded data will be contained in "UCI HAR Data" folder.
 3. Load run_analysis.R script into Course Project folder.
-4. Running the script will obtain the tidy data set tidy_data.txt.
+4. Before running run_analysis.R script, set up working directory.
+5. Running the script will obtain the tidy data set tidy_data.txt.
 
 
 
